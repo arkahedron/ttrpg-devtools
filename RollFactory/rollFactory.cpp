@@ -19,6 +19,7 @@ int modifier = 0;
 float totalInput;
 int finalDieResult;
 
+int rollTests = 10; //how many times to roll each die to get an aproximate amount
 
 int dieRoller(int dieSides);
 
