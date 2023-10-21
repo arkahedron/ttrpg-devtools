@@ -59,7 +59,7 @@ float cinputParseFloat() {
 }
 
 
-
+//Roll the selected amount of dice within a die type
 float rollDiceBatch()
 {
 
